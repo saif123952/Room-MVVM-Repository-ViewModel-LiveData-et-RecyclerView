@@ -27,8 +27,8 @@ Le projet est structuré pour assurer la modularité et la facilité de maintena
 
 ## Aperçu de l'interface
 
-![Démonstration de l'application](screenshot.png)
-*(Remplacez screenshot.png par une capture d'écran de votre émulateur)*
+<img width="362" height="820" alt="image" src="https://github.com/user-attachments/assets/78867439-d5a6-4756-b900-f283f7f72fda" />
+
 
 ## Technologies Utilisées
 
